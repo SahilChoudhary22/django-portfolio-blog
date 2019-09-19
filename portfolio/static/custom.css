@@ -1,0 +1,9 @@
+.jumbotron h1,
+.jumbotron .h1,
+#namevalafont {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.jumbotron-heading {
+    font-family: 'Source Code Pro', monospace;
+}
