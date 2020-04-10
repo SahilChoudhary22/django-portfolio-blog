@@ -15,6 +15,9 @@ A portfolio + blog site made with django, bootstrap, postgreSQL
 ### Why I made it
 To create a ripple in the sands of time.
 
+### Screenshot
+![](https://i.ibb.co/6g7540t/Portfolio-blog.jpg)
+
 ### Modules used
 - Django
 - Pillow
